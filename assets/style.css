@@ -30,8 +30,13 @@ button{
     margin-top: 10px;
     border-radius: 4px;
 }
+#weather-div{
+    display: block;
+}
 #current-weather-div{
     border: 2px solid black;
     height: 200px;
     margin: 10px;
+}#forecast-div{
+    height: 200px
 }
